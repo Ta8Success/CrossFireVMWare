@@ -1,0 +1,5 @@
+C:\Users\Patrick\source\repos\LastCore\InputSimulator\bin\x86\Debug\InputSimulator.dll
+C:\Users\Patrick\source\repos\LastCore\InputSimulator\bin\x86\Debug\InputSimulator.pdb
+C:\Users\Patrick\source\repos\LastCore\InputSimulator\obj\x86\Debug\InputSimulator.dll
+C:\Users\Patrick\source\repos\LastCore\InputSimulator\obj\x86\Debug\InputSimulator.pdb
+C:\Users\Patrick\source\repos\LastCore\InputSimulator\obj\x86\Debug\InputSimulator.csprojAssemblyReference.cache

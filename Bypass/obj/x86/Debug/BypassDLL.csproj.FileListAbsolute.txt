@@ -1,0 +1,5 @@
+C:\Users\Patrick\source\repos\LastCore\Bypass\bin\x86\Debug\Bypass.dll
+C:\Users\Patrick\source\repos\LastCore\Bypass\bin\x86\Debug\Bypass.pdb
+C:\Users\Patrick\source\repos\LastCore\Bypass\obj\x86\Debug\Bypass.dll
+C:\Users\Patrick\source\repos\LastCore\Bypass\obj\x86\Debug\Bypass.pdb
+C:\Users\Patrick\source\repos\LastCore\Bypass\obj\x86\Debug\BypassDLL.csprojAssemblyReference.cache

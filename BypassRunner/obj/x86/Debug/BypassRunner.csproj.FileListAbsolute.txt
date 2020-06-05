@@ -1,0 +1,9 @@
+C:\Users\Patrick\source\repos\LastCore\BypassRunner\bin\x86\Debug\BypassRunner.exe.config
+C:\Users\Patrick\source\repos\LastCore\BypassRunner\bin\x86\Debug\BypassRunner.exe
+C:\Users\Patrick\source\repos\LastCore\BypassRunner\bin\x86\Debug\BypassRunner.pdb
+C:\Users\Patrick\source\repos\LastCore\BypassRunner\bin\x86\Debug\Bypass.dll
+C:\Users\Patrick\source\repos\LastCore\BypassRunner\bin\x86\Debug\Bypass.pdb
+C:\Users\Patrick\source\repos\LastCore\BypassRunner\obj\x86\Debug\BypassRunner.csprojAssemblyReference.cache
+C:\Users\Patrick\source\repos\LastCore\BypassRunner\obj\x86\Debug\BypassRunner.csproj.CopyComplete
+C:\Users\Patrick\source\repos\LastCore\BypassRunner\obj\x86\Debug\BypassRunner.exe
+C:\Users\Patrick\source\repos\LastCore\BypassRunner\obj\x86\Debug\BypassRunner.pdb

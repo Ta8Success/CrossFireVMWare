@@ -1,0 +1,7 @@
+C:\Users\Patrick\source\repos\LastCore\GUI\bin\Debug\GUI.exe.config
+C:\Users\Patrick\source\repos\LastCore\GUI\bin\Debug\GUI.exe
+C:\Users\Patrick\source\repos\LastCore\GUI\bin\Debug\GUI.pdb
+C:\Users\Patrick\source\repos\LastCore\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Patrick\source\repos\LastCore\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Patrick\source\repos\LastCore\GUI\obj\Debug\GUI.exe
+C:\Users\Patrick\source\repos\LastCore\GUI\obj\Debug\GUI.pdb

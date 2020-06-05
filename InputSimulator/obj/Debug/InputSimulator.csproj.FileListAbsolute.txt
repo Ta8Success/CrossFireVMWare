@@ -1,0 +1,4 @@
+C:\Users\Patrick\source\repos\LastCore\InputSimulator\bin\Debug\InputSimulator.dll
+C:\Users\Patrick\source\repos\LastCore\InputSimulator\bin\Debug\InputSimulator.pdb
+C:\Users\Patrick\source\repos\LastCore\InputSimulator\obj\Debug\InputSimulator.dll
+C:\Users\Patrick\source\repos\LastCore\InputSimulator\obj\Debug\InputSimulator.pdb

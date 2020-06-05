@@ -1,0 +1,4 @@
+C:\Users\Patrick\source\repos\LastCore\Bypass\bin\Debug\Bypass.dll
+C:\Users\Patrick\source\repos\LastCore\Bypass\bin\Debug\Bypass.pdb
+C:\Users\Patrick\source\repos\LastCore\Bypass\obj\Debug\Bypass.dll
+C:\Users\Patrick\source\repos\LastCore\Bypass\obj\Debug\Bypass.pdb

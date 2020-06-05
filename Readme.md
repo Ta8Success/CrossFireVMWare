@@ -1,3 +1,5 @@
+Send me a donation at http://paypal.me/Kunaa
+
 Full working Auto Farm. Since you loosers pretent you wrote any of this code.
 
 Add this to your .VMX File
